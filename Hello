@@ -1,0 +1,7 @@
+echo "# Hello_All_0911_" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gopa0911/Hello_All_0911_.git
+git push -u origin main
